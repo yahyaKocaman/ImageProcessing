@@ -51,7 +51,7 @@ pip install -r requirements.txt
 # Jupyter Notebook'u başlatın
 jupyter notebook
 
-# Ardından UYG332_Image_Processing_Final_Project.ipynb dosyasını açın
+# Ardından _Project.ipynb dosyasını açın
 ```
 
 ## Dosya Yapısı
