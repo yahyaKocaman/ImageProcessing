@@ -1,13 +1,8 @@
 # UYG332 Image Processing Final Project
 
-## Öğrenci Bilgileri
-- **Ad Soyad:** Yahya Kocaman
-- **Öğrenci No:** B2180.060025
-- **Ders:** UYG332 - Image Processing
-- **Eğitmen:** Batuhan Hangün
 
 ## Proje Açıklaması
-Bu proje görüntü işleme dersinin final projesi için hazırlanmıştır. Proje kapsamında 6 farklı problem çözülmüş ve Python ile OpenCV kütüphanesi kullanılarak görüntü işleme teknikleri uygulanmıştır.
+Proje kapsamında 6 farklı problem çözülmüş ve Python ile OpenCV kütüphanesi kullanılarak görüntü işleme teknikleri uygulanmıştır.
 
 ## Çözülen Problemler
 1. **Problem 1 :** tf2_engineer.jpg - Görüntü merkezi bulma ve renkli patch ekleme
@@ -61,7 +56,7 @@ jupyter notebook
 
 ## Dosya Yapısı
 ```
-UYG332_Final_Project/
+_Project/
 │
 ├── UYG332_Image_Processing_Final_Project.ipynb  # Ana proje dosyası
 ├── README.md                                     # Bu dosya
